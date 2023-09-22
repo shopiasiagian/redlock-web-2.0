@@ -1,2 +1,1 @@
-# redlock-web-2.0
-untuk UTS SNA
+Middle Exam answer for Server Network and Administration.
